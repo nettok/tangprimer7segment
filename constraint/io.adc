@@ -5,10 +5,10 @@ set_pin_assignment {rgb_led[0]} { LOCATION = R3;  }		## LED_R
 set_pin_assignment {rgb_led[1]} { LOCATION = J14;  }	## LED_G
 set_pin_assignment {rgb_led[2]} { LOCATION = P13;  }	## LED_B
 
-set_pin_assignment {digit1} 	{ LOCATION = M10; }
-set_pin_assignment {digit2} 	{ LOCATION = P5; }
-set_pin_assignment {digit3} 	{ LOCATION = N5; }
-set_pin_assignment {digit4} 	{ LOCATION = A4; }
+set_pin_assignment {digit_anode1} 	{ LOCATION = M10; }
+set_pin_assignment {digit_anode2} 	{ LOCATION = P5; }
+set_pin_assignment {digit_anode3} 	{ LOCATION = N5; }
+set_pin_assignment {digit_anode4} 	{ LOCATION = A4; }
 
 set_pin_assignment {segmentA} 	{ LOCATION = A3; }
 set_pin_assignment {segmentB} 	{ LOCATION = C5; }
