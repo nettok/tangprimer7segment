@@ -11,7 +11,7 @@
     <Source_Files>
         <Verilog>
             <File>src/display.v</File>
-            <File>src/decimal_to_7segment_digit.v</File>
+            <File>src/decimal_to_7segment.v</File>
         </Verilog>
         <ADC_FILE>constraint/io.adc</ADC_FILE>
         <SDC_FILE/>
@@ -23,7 +23,7 @@
         <CREATEINDEX>user</CREATEINDEX>
     </TOP_MODULE>
     <Project_Settings>
-        <Step_Last_Change>2020-10-04 21:48:47</Step_Last_Change>
+        <Step_Last_Change>2020-10-07 01:11:00</Step_Last_Change>
         <Current_Step>60</Current_Step>
         <Step_Status>true</Step_Status>
     </Project_Settings>
